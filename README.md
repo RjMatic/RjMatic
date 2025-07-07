@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi There, Rj Here!!!
 
-<!--
-**RjMatic/RjMatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate Full-Stack Developer who loves turning ideas into real-world applications.
+Whether it's building scalable backends or crafting clean user interfaces, I enjoy every part of the development journey.
 
-Here are some ideas to get you started:
+🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Fresh graduate in bachelor of science in information technology
+🔍 Always exploring new tech and frameworks
+🧩 Problem-solver and quick learner
+✨ Believer in clean code and meaningful user experiences
+💻 Tech Stack
+
+🧑‍💻 Languages: Javascript, Php, Java, C++, C#
+🔧 Frameworks: React, Next, Express, Laravel
+⚙️ Tools & Platforms: Docker, GitHub Actions
+🔄 Other: CI/CD, Microservices
